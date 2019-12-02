@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "E:\\Miniconda3\\envs\\django2\\python.exe",
+    "python.formatting.provider": "black"
+}
